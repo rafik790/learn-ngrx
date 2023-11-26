@@ -1,0 +1,14 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Angular 16",
+      "description": "Angular is javascript framework built by google"
+    },
+    {
+      "id": 2,
+      "title": "Spring boot",
+      "description": "Spring boot is java framework to build microservice"
+    }
+  ]
+}
